@@ -1,0 +1,5 @@
+author: Letra Invisível
+name: proxy
+main: network.twisty.proxyserver.ProxyPlugin
+version: 1.3
+commands:
